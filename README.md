@@ -1,5 +1,6 @@
-**🛒 Retail Demand Intelligence**
-Overview
+**Retail Demand Intelligence**
+
+**Overview**
 
 Retail Demand Intelligence is a data science project focused on analysing and forecasting retail demand using transactional and inventory data. The project demonstrates how raw retail data can be transformed into actionable demand insights suitable for real-world private-sector decision-making.
 
@@ -65,5 +66,3 @@ Python (pandas, numpy), Matplotlib, Seaborn, scikit-learn, Jupyter Notebook, Git
 - Feature encoding for machine learning
 
 - Model comparison and performance evaluation
-
-- Inventory and pricing optimisation use cases
