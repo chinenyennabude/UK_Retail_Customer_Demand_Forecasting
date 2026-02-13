@@ -57,7 +57,7 @@ Retail-Demand-Intelligence/
 
 **Tools**
 
-Python (pandas, numpy), Matplotlib, Seaborn, scikit-learn, Jupyter Notebook, Git/GitHub
+Python (pandas, numpy), Matplotlib, Seaborn, scikit-learn, Jupyter Notebook, Git/GitHub, VSC
 
 **Next Steps**
 
